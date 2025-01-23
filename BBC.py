@@ -1,3 +1,4 @@
+#This is a Bouncing ball game
 import pygame
 import sys
 import random
