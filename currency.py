@@ -1,3 +1,4 @@
+#This code is about converting money from one currency to another currency
 def get_exchange_rates():
   exchange_rates = {
     "USD": {"EUR": 0.917, "JPY": 158.37, "GBP": 0.771, "INR": 83.573, "PHP": 58.32, "THB": 36.248, "CNY": 7.273, "RUB": 87.468, "BHD": 0.376},#United states dollars
