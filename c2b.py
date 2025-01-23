@@ -1,3 +1,5 @@
+#This is code to convert color images to black and white. I used streamlit function to convert this code to HTML
+#After copying the code, in command prompt run "streamlit run c2b.py or whatever name you save in the same IP address as the command prompt"
 import streamlit as st
 import cv2
 import numpy as np
