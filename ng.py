@@ -1,3 +1,6 @@
+#This is code for number guessing game with history of players who played the game along with their wins and losses. I used streamlit function to convert this code to HTML
+#After copying the code, in command prompt run "streamlit run ng.py or whatever name you save in the same IP address as the command prompt"
+
 import random
 import json
 import os
